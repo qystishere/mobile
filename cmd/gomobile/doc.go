@@ -52,7 +52,7 @@ example, in Android Studio (1.2+), an AAR file can be imported using
 the module import wizard (File > New > New Module > Import .JAR or
 .AAR package), and setting it as a new dependency
 (File > Project Structure > Dependencies).  This requires 'javac'
-(version 1.7+) and Android SDK (API level 16 or newer) to build the
+(version 1.8+) and Android SDK (API level 16 or newer) to build the
 library for Android. The environment variable ANDROID_HOME must be set
 to the path to Android SDK. Use the -javapkg flag to specify the Java
 package prefix for the generated classes.
